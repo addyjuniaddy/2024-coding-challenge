@@ -1,0 +1,1 @@
+input('Nama: ')   #tidak bisa di versi 2
